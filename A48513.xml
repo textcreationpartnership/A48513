@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King and Queen at White-hall, on Sunday, Jan. 15, 1692 by J. Lambe ...</title>
+            <author>Lambe, John, 1648 or 9-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48513</idno>
+            <idno type="STC">Wing L224</idno>
+            <idno type="STC">ESTC R3370</idno>
+            <idno type="EEBO-CITATION">12891981</idno>
+            <idno type="OCLC">ocm 12891981</idno>
+            <idno type="VID">95115</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48513)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95115)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 718:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King and Queen at White-hall, on Sunday, Jan. 15, 1692 by J. Lambe ...</title>
+                  <author>Lambe, John, 1648 or 9-1708.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Warren for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  O.T. --  Isaiah LVII, 21 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95115:1"/>
+            <p>A SERMON PREACHED Before the King and Queen AT WHITE-HALL, On <hi>Sunday, Jan.</hi> 15. 1692.</p>
+            <p>By <hi>J. LAMBE,</hi> Rector of <hi>Wheathamſtead</hi> in <hi>Hartfordſhire,</hi> and Chaplain in Ordinary to Their MAJESTIES.</p>
+            <p>Publiſhed by Their Majeſty's Special Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Warren</hi> for <hi>Walter Kettilby,</hi> at the <hi>Biſhop</hi>'s <hi>Head</hi> in St. <hi>Paul</hi>'s Church-Yard, 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:95115:2"/>
+            <pb n="1" facs="tcp:95115:2"/>
+            <head>A SERMON Preached before the King and Queen.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ISAIAH lvii. 21.</hi>
+                  </bibl>
+                  <p>There is no peace, ſaith my God, to the Wicked. <hi>The whole Period runs thus:</hi> But the wicked are like the troubled Sea when it cannot reſt, whoſe waters caſt up mire and dirt. There is no peace, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>FRom the 15th. Verſe, to the end of the Chap<g ref="char:EOLhyphen"/>ter, the Prophet propoſes ſeveral Conſidera<g ref="char:EOLhyphen"/>tions to us, to perſwade and excite us, to repent of our Sins, and amend our Lives; as,</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> That a true Repentance will certainly be accepted; That God has Compaſſion upon us ſtill, and is unwilling to continue his Diſpleaſure againſt us. For <hi>I will not contend for ever,</hi> at the 16th Verſe, <hi>Neither will I be always wroth, for the ſpirit
+<pb n="2" facs="tcp:95115:3"/>ſhould fail before me, and the ſouls which I have made.</hi>
+               </item>
+               <item>
+                  <hi>Secondly,</hi> From the Conſideration of the happy Conſequence of a true Repentance, the Diſpleaſure of God ſhall ceaſe, his Judgments ſhall be removed; our dread of God, our fear of his Power and Ju<g ref="char:EOLhyphen"/>ſtice, ſhall be changed into an humble confidence of his Favour, into a ſenſe, and enjoyment of his Love. Our Spirits will be ſedate and quiet, our Mind ſerene, our Reflections chearful, and we ſhall be throughly ſatisfied in our ſelves. <hi>I create the fruit of the lips,</hi> at the 19th ver. <hi>Peace, peace to him that is afar off, and to him that is nigh, ſaith the Lord, and I will heal him.</hi>
+               </item>
+               <item>
+                  <hi>Thirdly</hi> and Laſtly, From the Conſideration of the Terrours, the Vexation and Deſpair, that do continually gall and torment the Wicked. <hi>For the wicked are like the troubled Sea</hi> (at the 20th ver.) <hi>when it cannot Reſt, whoſe waters caſt up Mire and Dirt; There is no Peace to the Wicked, ſaith my God.</hi> Which words conſiſt of theſe two parts.
+<list>
+                     <item>The Firſt is a Poſitive Aſſertion, an Unlimited Propoſition, <hi>There is no Peace to the Wicked.</hi>
+                     </item>
+                     <item>The Second, is the Authority upon which the Propoſition is eſtabliſhed, even the Teſtimony of God Himſelf, <hi>There is no Peace, ſaith my God, to the wicked.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <pb n="3" facs="tcp:95115:3"/>
+            <p>That God who created our Capacities, and there<g ref="char:EOLhyphen"/>fore knows, both what will ſatisfie, and what will Grate upon them: That GOD, who is our God, who has a tender Regard for our Happineſs, whoſe very Eſſence is Truth and Goodneſs, who can nei<g ref="char:EOLhyphen"/>ther be deceived Himſelf, nor impoſe a Falſity up<g ref="char:EOLhyphen"/>on us. It is this God, that ſaith, <hi>There is no Peace to the wicked.</hi>
+            </p>
+            <p>And for the farther Illuſtration of this important Truth, I ſhall briefly proceed in this following Me<g ref="char:EOLhyphen"/>thod.</p>
+            <list>
+               <item>Firſt, I ſhall explain the Terms, and conſider
+<list>
+                     <item>(1.) Who are underſtood by the <hi>wicked.</hi> And</item>
+                     <item>(2.) What by <hi>Peace,</hi> when it is ſaid, <hi>There is no Peace to the wicked.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Secondly, I ſhall inquire into the reaſons of the Propoſition, and conſider whence it comes to paſs, <hi>That there is no Peace to the wicked.</hi>
+               </item>
+               <item>Thirdly and Laſtly, I ſhall endeavour to make it manifeſt, That the Force or effect of theſe Rea<g ref="char:EOLhyphen"/>ſons upon the Minds of the wicked, is by no means to be avoided: That as there is ſufficient cauſe, why they ſhould be uneaſie; ſo, in fact, they <hi>are</hi> affected, at leaſt Habitually, with a ſharp and pun<g ref="char:EOLhyphen"/>gent ſenſe, of Pain and Miſery.</item>
+            </list>
+            <p>
+               <hi>Firſt,</hi> I ſhall explain the terms, and conſider,
+<list>
+                  <item>1. Who we are here to underſtand by the <hi>wicked.</hi> And,</item>
+                  <pb n="4" facs="tcp:95115:4"/>
+                  <item>2. What by <hi>Peace,</hi> when it is ſaid, <hi>There is no Peace to the wicked.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And Firſt, By the <hi>wicked</hi> are underſtood ſuch Perſons as have thrown off the Government of God, and obey the Suggeſtions of their own Will; Diſ<g ref="char:EOLhyphen"/>ſolute Men, that Chuſe, and Love, and Act by the Inclination of their ſenſual Appetites, without Re<g ref="char:EOLhyphen"/>gard, or in Contempt and Oppoſition to the Law of God. They are ſtiled in Scripture, <hi>Sons of Belial,</hi> or ſuch as aſſume to themſelves a boundleſs Liberty of doing whatſoever they liſt, for that is the mean<g ref="char:EOLhyphen"/>ing of the Word. And this Definition of the <hi>Wicked,</hi> agrees exactly with all the Accounts and Deſcrip<g ref="char:EOLhyphen"/>tions of them in the Holy Scriptures. <hi>They ſet them<g ref="char:EOLhyphen"/>ſelves againſt God, and againſt His Anointed,</hi> ſays the Pſalmiſt, (2.3.) <hi>ſaying, Let us break their Bonds in ſunder, and caſt away their Cords from us. They walk in the Ways of their own Hearts,</hi> (Eccleſ. 11.9.) <hi>and in the ſight of their own Eyes,</hi> (ſays <hi>Solomon.</hi>) <hi>They do their own Ways, and find their own Pleaſures,</hi> ſays the Prophet <hi>Iſaiah,</hi> (58.13.) <hi>They are Children of Diſ<g ref="char:EOLhyphen"/>obedience, fulfilling the Will of the Fleſh, and of the Mind,</hi> ſays the Apoſtle (<hi>Epheſ.</hi> 2.23.) That is the firſt.</p>
+            <p>Secondly, By <hi>Peace,</hi> in the Text, which is de<g ref="char:EOLhyphen"/>nied to the Wicked, we underſtand Tranquillity of Mind, and a Rational Uniform Satisfaction in our
+<pb n="5" facs="tcp:95115:4"/>State. <hi>Peace,</hi> I confeſs, is taken many times more generally for all Proſperity and Welfare, (<hi>Epheſ.</hi> 2.17.) but here it is underſtood in a more particular, and indeed, in the more uſual ſenſe, <hi>viz.</hi> of <hi>Inward ſatisfaction,</hi> and a Deliberate Content of mind. Be<g ref="char:EOLhyphen"/>cauſe the <hi>No-Peace</hi> of the Wicked is oppoſed to the <hi>Reſt</hi> and <hi>Peace</hi> of the Righteous, at the 19th verſe; and becauſe the Prophet has explained it thus him<g ref="char:EOLhyphen"/>ſelf, in the Words before my Text. <hi>But the wicked are like a troubled Sea, when it cannot reſt, whoſe Wa<g ref="char:EOLhyphen"/>ters caſt up Mire and Dirt. There is no Peace to the Wicked:</hi> They ſhall never Attain to a State of true Content, or enjoy an Habitual, Steddy, Satisfa<g ref="char:EOLhyphen"/>ction. Thus much for the Explication of the Terms.</p>
+            <p>
+               <hi>Secondly,</hi> I proceed, as I propoſed, in the Second place to conſider the truth of the Propoſition it ſelf, or whence it comes to paſs, <hi>That there is no Peace to the Wicked.</hi>
+            </p>
+            <p>The kinds of his Trouble, and the Symptoms of his Diſquietude are very many; but they all pro<g ref="char:EOLhyphen"/>ceed from one or other of theſe following Cauſes, either,</p>
+            <list>
+               <item>1. From the Degeneracy of their own Nature. Or,</item>
+               <item>2. From the Malignity of Vice it ſelf. Or,</item>
+               <item>3. And Laſtly, From a ſenſe of their Guilt, from their Dread of God, and of the terrible San<g ref="char:EOLhyphen"/>ctions of his Law.</item>
+            </list>
+            <pb n="6" facs="tcp:95115:5"/>
+            <p>Firſt of all, The Diſquietude of the Wicked, a<g ref="char:EOLhyphen"/>riſes from the Degeneracy of their own Nature. As the Goodneſs of God inclined him to Create the World, ſo His own moſt perfect Wiſdom Aſſign'd to every ſort of being, a peculiar End; that ſo the ſeveral parts purſuing their Deſign, and fulfiling their Intent, ſhould all Conſpire to make up a per<g ref="char:EOLhyphen"/>fect Harmony in the whole Creation, and ſhould every one attain their own perfection, and enjoy the proper Happineſs that is allotted to their Being.</p>
+            <p>But Man was highly Honoured, above the reſt of his Fellow Creatures, Impreſs'd with the Image of God, and quickened by his Spirit; Enobled with the Powers of Judgment and Election, entru<g ref="char:EOLhyphen"/>ſted with a Liberty of Action, and obliged to no other, than that Eternal Law of God Himſelf, that Purity of Will, that Univerſal Righteouſneſs, which render the Divinity ſo Glorious, ſo Amiable, ſo Rever'd.</p>
+            <p>Wherefore then, ſo long as we preſerve the Di<g ref="char:EOLhyphen"/>ſtinction of our Kind, our Likeneſs to God; ſo long as we Judge, and Chuſe, and Love according to his Example, and Command, ſo long we are happy; we Exert our proper Powers, we are un<g ref="char:EOLhyphen"/>der no Controul, we gratifie our true Deſires, we purſue the Deſign, and are Delighted with the Pleaſures of God Himſelf.</p>
+            <pb n="7" facs="tcp:95115:5"/>
+            <p>But if we decline our proper Rule; if we ſuf<g ref="char:EOLhyphen"/>fer our Paſſions to prevail over our Judgment; if, laying aſide our reaſon, and the Law of God, we Chuſe, and Love, and Act by the Inclinati<g ref="char:EOLhyphen"/>ons of the Body; we ſink, of courſe, into a ſtate that is evil to us in it ſelf, that is neceſſarily miſe<g ref="char:EOLhyphen"/>rable; into a Condition that is directly Oppoſite to the Intent of our Creation: Our Frame is Diſ<g ref="char:EOLhyphen"/>ordered, our Nature is Degenerate; we ſeparate our ſelves from our Principle, and wander in un<g ref="char:EOLhyphen"/>trodden, rugged Paths, Racked and Tormented with the Tumult, the Violence of our Paſſions, with Variety of Contradictions, with an eager de<g ref="char:EOLhyphen"/>ſire of Happineſs, and a continual Diſappointment. <hi>Maxima peccantium poena eſt, peccaſſe,</hi> ſays <hi>Seneca. The greateſt Puniſhment of Sin, is to have finned. Sceleris is ſcelere, ſupplicium eſt.</hi> And this is that War, which the Apoſtle ſpeaks of, between the <hi>Law of his Body, and the Law of his Mind;</hi> (Rom. 7.23.) We may ſuppreſs our Notions of Good and Evil, in a great degree; but we cannot <hi>deſtroy</hi> them <hi>utterly.</hi> The Soul will ſtrive to recover it ſelf, it will be reaching after its proper Happi<g ref="char:EOLhyphen"/>neſs; <hi>The things which we would,</hi> (there is ſtill a deſire after our Original Good, that we have loſt) tho', <hi>we do them not: and the things which we would not;</hi> there is a Check, a Controul upon us, in the
+<pb n="8" facs="tcp:95115:6"/>practice of Vice; our Pleaſures are not free, we are under the Rebuke of our own Spirit, tho' <hi>we do them.</hi> That's the firſt.</p>
+            <p n="2">2. Secondly, The Diſquietude of the Wicked ari<g ref="char:EOLhyphen"/>ſes from the Malignity, the Miſchievous Quality of Vice it ſelf.</p>
+            <p>What is Vice, but Exceſs, or a Motion Praeter<g ref="char:EOLhyphen"/>natural? And therefore it is a Force upon us, and muſt of Neceſſity, be painful, and uneaſie to us. As the Muſcles, Nerves, and Sinews of the Bo<g ref="char:EOLhyphen"/>dy, ſo long as they move according to their Inten<g ref="char:EOLhyphen"/>tion, ſo long we enjoy Delight, and Pleaſure in their Motions: But if they are ſtretched beyond their proper uſe, we are immediately upon a Rack, tormented with a ſenſe of the ſharpeſt pains.</p>
+            <p>And thus in reſpect of the Faculties of our Souls; ſo long as we keep them within their Bounds; ſo long as we Believe, Deſire, and Act, according to the Rules of Reaſon, and the Law of God; ſo long there is a perfect Symmetry, a pleaſant Harmony in all our Motions, notwithſtanding the great variety of Deſire, Deſign, and Action, that we manage in the World: But if we forſake our Rule, if we indulge to our Paſſions, and become Extravagant, we are preſently Diſcompoſed, and out of order; we have brought a Sickneſs, a Con<g ref="char:EOLhyphen"/>vulſion, a Dyſcraſie upon our ſelves, a ſtate, a Ha<g ref="char:EOLhyphen"/>bit of Diſeaſe and Pain.</p>
+            <pb n="9" facs="tcp:95115:6"/>
+            <p>And if any Wicked Man will caſt up a fair ac<g ref="char:EOLhyphen"/>count with himſelf, he ſhall find how his Vices have Deceived him; what Pain and Anguiſh they have brought upon him, inſtead of thoſe Delights, and Pleaſures which they promiſed him. What Uneaſineſs, what Reſtleſneſs of Mind, what De<g ref="char:EOLhyphen"/>bility of Body, what Prejudice in Intereſt, what a General Inconvenience.</p>
+            <p>Does not Impatience of Deſire diſquiet him, Malice and Revenge diſtract him, Repining Envy gnaw him? Does not Ambition prey upon his Vi<g ref="char:EOLhyphen"/>tal Spirits, and Intemperance Expoſe, Beſot, and waſt him? That is the Second.</p>
+            <p n="3">3. Thirdly and Laſtly, the Diſquietude of the Wicked ariſes from a ſenſe of their Guild, from their Dread of God, and of the Terrible Sancti<g ref="char:EOLhyphen"/>ons of His Law.</p>
+            <p>
+               <hi>He hath appointed a Day, in the which He will Judge the World in Righteouſneſs.</hi> (Acts 17.31.) <hi>He will bring every Work into Judgment, with every ſecret thing.</hi> (Eccleſ. 12.14.) <hi>We muſt all appear before the Judgment-Seat of Chriſt, to give an account of our Acti<g ref="char:EOLhyphen"/>ons done in the Body, whether they be good or evil.</hi> (2 Cor. 5.10.) <hi>And they that have done Good, ſhall go into Life Everlaſting, and they that have done E<g ref="char:EOLhyphen"/>vil, into Everlaſting Puniſhment.</hi> (Jo. 5.28.)</p>
+            <pb n="10" facs="tcp:95115:7"/>
+            <p>This is the Immutable Law of God; this is the Natural, the Univerſal Expectation of all Man<g ref="char:EOLhyphen"/>kind.</p>
+            <p>How is it poſſible then, that a Man ſhould en<g ref="char:EOLhyphen"/>dure himſelf, or enjoy his being, who is obnoxi<g ref="char:EOLhyphen"/>ous to theſe grievous Pains? What a dreadful Con<g ref="char:EOLhyphen"/>ſideration it is to him, that he can neither eſcape his Tryal, Demulce the Anger, or avoid the Power of God?</p>
+            <p>And therefore all the Terrors in the World, e<g ref="char:EOLhyphen"/>ven Death it ſelf, are trifles to the Wicked, in compariſon of their fearful Expectation of a fu<g ref="char:EOLhyphen"/>ture Judgment; when <hi>the Lord himſelf ſhall deſcend from Heaven in flames of fire, to take vengeance of them that know not God, and obey not the Goſpel of our Lord Jeſus Chriſt.</hi> 2. Theſ. 1.8.</p>
+            <p>This is the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that Genius within our ſelves, which <hi>Socrates</hi> ſpeaks of, that Upbraids our Vices, and Torments our Conſciences.</p>
+            <p>Theſe Fears of a future Account, that are fixed and rooted in the Minds of Men, are a Conſtant Principle of Trouble and Confuſion to the Wick<g ref="char:EOLhyphen"/>ed. His Guilt diſmays him, his Fears Diſpirit him, and Incurable Remorſe Diſtracts him.</p>
+            <p>Theſe are the <hi>Arrows of the Almighty, the Poyſon whereof,</hi> ſays Holy <hi>Job, will drink up our very Spirits.</hi> (Job 6.4.) <hi>Theſe again are the gall of Aſps
+<pb n="11" facs="tcp:95115:7"/>within a Man,</hi> (Job 20.14.) <hi>and the Terrors of the Lord that ſet themſelves in array againſt us.</hi> Job 6.4. Theſe are the Rolling-pin, upon which the <hi>Py<g ref="char:EOLhyphen"/>thagoreans</hi> place the Wicked; that gives them a continual Uneaſineſs. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>And thus much for the ſecond General, the Reaſons of the Propoſition, or whence it comes to paſs, that <hi>There is no Peace to the wicked.</hi> And we find it ariſes,</p>
+            <list>
+               <item>1. From the Degeneracy of their own Nature.</item>
+               <item>2. From the Malignity of Vice if ſelf.</item>
+               <item>3. And Laſtly, from a ſenſe of their Guilt, and the fear of Puniſhment.</item>
+            </list>
+            <p>Thirdly, I now proceed to the Third and Laſt. Particular, and ſhall endeavour to make it mani<g ref="char:EOLhyphen"/>feſt, That the Force, or Effect of theſe Reaſons, upon the Minds of the Wicked, is utterly una<g ref="char:EOLhyphen"/>voidable; that as there is ſufficient cauſe why they ſhould be Uneaſie; ſo in fact, they are affected at leaſt habitually, with a ſharp, and pungent ſenſe of Pain and Miſery. That the Cauſe, or Wicked<g ref="char:EOLhyphen"/>neſs being put, Diſquietude and Trouble will follow of neceſſity, not in <hi>Reaſon</hi> only, but in <hi>Fact.</hi>
+            </p>
+            <p>This one thing I premiſe, that we ſpeak of Men of underſtanding, that are capable of common
+<pb n="12" facs="tcp:95115:8"/>ſenſe; of ſuch as have the uſe of their Reaſon, who fear what is terrible, and expect ſuch Events as are probable.</p>
+            <p>And as for thoſe ſtupid, ſenſeleſs Wretches, if there are any ſuch, whom nothing can affect, I think they are ſad Examples of this preſent truth, in that they Decline the Judgment of their Con<g ref="char:EOLhyphen"/>ſciences, and are run away from themſelves, that they may Avoid the Anxiety of their own Minds.</p>
+            <p>That then, which I propoſe to my ſelf, for the Illuſtration of this Particular is, to Conſider a Wicked Man,
+<list>
+                  <item>(1.) under all the ſeveral Senti<g ref="char:EOLhyphen"/>ments of Religion; And</item>
+                  <item>(2.) in all the various Fortunes of the World, and endeavour to prove, that there is no Relief, againſt the force of the former Reaſons, to be found in any of them.</item>
+               </list>
+            </p>
+            <p>And theſe two General Heads will take in all the Refuges, to which the Wicked have ever had Recourſe.</p>
+            <p n="1">1. Firſt then, I ſhall conſider a Wicked Man un<g ref="char:EOLhyphen"/>der all the ſeveral Sentimenrs of Religion, and endeavour to prove, That no Hypotheſis whatſoe<g ref="char:EOLhyphen"/>ver, will afford him any ſatisfaction.</p>
+            <p>If it were poſſible for a Wicked Man, to be abſolutely Unconcern'd about the matter of Reli<g ref="char:EOLhyphen"/>gion, it might be impertinent to conſider his Opi<g ref="char:EOLhyphen"/>nion of it. But Religion pretends to determine
+<pb n="13" facs="tcp:95115:8"/>our Happineſs, to direct our Lives, and oblige our Obedience by the Sanction of Eternal Puniſhment. And therefore no Man can be eaſie till he has con<g ref="char:EOLhyphen"/>ſidered it. It is not founded upon the Sand, or publiſht by a few Deſigning Men; but it pretends to an agreement with the Principles of our Na<g ref="char:EOLhyphen"/>ture, the free Inclinations of our Souls, and to the General Conſent of all Men: To the ſupport of a Supernatural Revelation that has ſetled it, of an Almighty Power that has Atteſted, and Con<g ref="char:EOLhyphen"/>firm'd it.</p>
+            <p>And therefore no Man can be throughly ſatisfi<g ref="char:EOLhyphen"/>ed in his State, unleſs he either
+<list>
+                  <item>(1.) Conforms his Life to the Law, that he may acquit himſelf at the Day of Judgment; or</item>
+                  <item>(2.) frames ſuch a Notion of Religion to himſelf, as ſhall deliver his Mind from the fear of the Law; and that muſt be one or other of theſe that follow.</item>
+               </list>
+            </p>
+            <list>
+               <item>1. Either firſt the Principles of Religion are falſe.</item>
+               <item>2. Or at leaſt, that they are not Infallibly cer<g ref="char:EOLhyphen"/>tain.</item>
+               <item>3. Or if they are, yet however, That the Good<g ref="char:EOLhyphen"/>neſs of God will forgive us at the Laſt.</item>
+            </list>
+            <p>And in Fact and Practice every Wicked Man, that has retained his common Senſe, has actually taken Sanctuary in one or other of theſe Opini<g ref="char:EOLhyphen"/>ons of Religion.</p>
+            <pb n="14" facs="tcp:95115:9"/>
+            <p>I ſhall therefore confider, what Reaſonable Sa<g ref="char:EOLhyphen"/>tisfaction may be found in any of them.</p>
+            <p>And Firſt in <hi>Atheiſm. Lucretius</hi> boaſts extream<g ref="char:EOLhyphen"/>ly of the happy Effects, that will certainly follow, upon a firm perſwaſion, That there is no GOD. <hi>Exaequat nos Victoria Coelo.</hi> If there was, <hi>indeed,</hi> ſuch a Being as a God, He could not be more happy than we are, who have delivered our Minds from the Belief and Fear of Him. We now are Maſters of our ſelves, we are under no Controul, no ſlaviſh Fears affright us, no Terrible Appre<g ref="char:EOLhyphen"/>henſions ſowre our Pleaſures; we may now enjoy our ſelves without Regard, and Exult in that In<g ref="char:EOLhyphen"/>tire and perfect Liberty we have attain'd.</p>
+            <p>But this is all a Shadow, a meer Imagination; for alas! They beg the Queſtion of themſelves, they rejoyce in the Inferences, which they draw from a Propoſition, of the truth whereof they are not, they cannot be aſſured.</p>
+            <p>Neither the <hi>Epicureans</hi> themſelves, nor any o<g ref="char:EOLhyphen"/>ther ſort of Men, did ever pretend to Demon<g ref="char:EOLhyphen"/>ſtrate, or Affirm directly, <hi>That there is no God;</hi> That there is no Conſcious, Self-exiſtent Being that made the World in Wiſdom, and preſerves it by His Power.</p>
+            <p>Such a Notion is Encumbred with ſo many Difficulties, that we may venture to ſay, It is
+<pb n="15" facs="tcp:95115:9"/>Impoſſible for a Man in his Wits, to bring his mind to a perfect acquieſcence in it.</p>
+            <p>That the moſt Wonderful Effects ſhould be pro<g ref="char:EOLhyphen"/>duced without a ſufficient Cauſe; That the moſt Curious Building, for Beauty, Proportion, and Conſent of parts, ſhould jumble by chance, into the moſt Excellent Order; That the Duſt in the Street, by a kind Poſition, Site, and Motion of the Parts, may come to be ſenſible of Pleaſure and Pain, and capable of Thinking, Arts, and Po<g ref="char:EOLhyphen"/>licy.</p>
+            <p>Theſe things, (and many other, and groſſer Conſequences of that Opinion, That there is no God) are ſo Abſurd, that we Reluct againſt them; that we Reject them as it were by an Anticipation of mind. Thoſe Seminal Principles, that are Inſe<g ref="char:EOLhyphen"/>parable from our Nature, Reſiſt the Notion.</p>
+            <p>And therefore Atheiſtical Perſons rather <hi>Wiſh</hi> there was no God, than go about to prove it. They content themſelves with Cavilling at the Accounts that are given of the Nature, and Providence of God, and the Creation of the World; but are very tender of Aſſerting the Negative in terms, or of owning the Neceſſary Conſequences of that Opi<g ref="char:EOLhyphen"/>nion.</p>
+            <p>And it has always been obſerved, That thoſe who have pretended to be <hi>Atheiſts,</hi> have diſcover<g ref="char:EOLhyphen"/>ed
+<pb n="16" facs="tcp:95115:10"/>their Diſtruſt of that Opinion, whether they would, or no; and that not only by <hi>Suetonius,</hi> of <hi>Caligula,</hi> but by <hi>Tully,</hi> and all that have writ up<g ref="char:EOLhyphen"/>on the Queſtion, of all the <hi>Atheiſts</hi> they have ever known, or heard of.</p>
+            <p>This therefore is no Principle of Peace, no Re<g ref="char:EOLhyphen"/>fuge againſt the Fear of Inviſible Powers, or the danger of a Future Account. For after a Wicked Man has brought himſelf as near to an <hi>Atheiſt</hi> as he can, he ſhall be as much tormented with the Diſtruſt of his Principle, as he was before, with his Fears of God, and of a future Judgment.</p>
+            <p>But if we ſuppoſe that they could extinguiſh the Notion of Religion, and ſuppreſs all ſenſe, and apprehenſion of God, and his Providence in the World: Yet how can they expect any true Con<g ref="char:EOLhyphen"/>tent, or Happineſs from thence? <hi>If in this Life only we had hope, Man,</hi> of all the Beings in the World, would be the moſt Wretched and Con<g ref="char:EOLhyphen"/>temptible.</p>
+            <p>That ſmall degree of Reaſon we are Maſters of, would be the Inſtrument of the greateſt Miſchief we can imagine.</p>
+            <p>For what is Reaſon without Religion, but Craft and Subtilty, to delude, and cheat, and pro<g ref="char:EOLhyphen"/>cure to our ſelves, by any means, whatſoever we can bring within our Reach? Earthquakes, Hur<g ref="char:EOLhyphen"/>ricanes,
+<pb n="17" facs="tcp:95115:10"/>the Tyger, and the Lyon, are Innocent, and Harmleſs things, in compariſon of Men, conſpir<g ref="char:EOLhyphen"/>ing Miſchief one againſt another, without Con<g ref="char:EOLhyphen"/>troul.</p>
+            <p>And therefore, if there was not a God above, who Reſtrains, and Separates the Boiſterous Spi<g ref="char:EOLhyphen"/>rits of Men, the World would be nothing elſe, but a Stage of Confuſion, War, and Blood. Every one would endeavour to ſupplant his Neighbour; Society would be Dangerous; Black, and Uncom<g ref="char:EOLhyphen"/>fortable, Solitude our only Refuge.</p>
+            <p>Finally, If there is indeed no other Principle in the World, but Blind, Inconſcious matter, there can be no Stability, no Security that it will con<g ref="char:EOLhyphen"/>tinue. Why ſhould it not diſſolve again into an Indigeſted heap? For <hi>Inſtability is implyed in Chance and Fortune,</hi> ſays <hi>Tully,</hi> upon the like Occaſion. <hi>(De nat. Deor.)</hi>
+            </p>
+            <p>But is there any foundation of Reſt or Pleaſure, whilſt all that we Have, or Hope for, is Obnoxi<g ref="char:EOLhyphen"/>ous to continual Change, and we our ſelves to Anni<g ref="char:EOLhyphen"/>hilation? Yet nothing but an Almighty Provi<g ref="char:EOLhyphen"/>dence can ſupport our hope; no other Principle can preſerve the matter in the Condition that it is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, That all Things do not immediately run into a Maſs, a Heap again.</p>
+            <pb n="18" facs="tcp:95115:11"/>
+            <p>And thus it appears that there is no Content, or ſolid Satisfaction to be found in <hi>Atheiſm.</hi> It is im<g ref="char:EOLhyphen"/>poſſible for us to be fully perſwaded of the Princi<g ref="char:EOLhyphen"/>ple; or if we were, yet nevertheleſs, we ſhould be as Miſerable as we can imagine.</p>
+            <p n="2">2. And therefore, Secondly, We will ſuppoſe a Wicked Man a <hi>Sceptic,</hi> (or one that does not direct<g ref="char:EOLhyphen"/>ly deny, but, however, is not throughly ſatisfied of the Truth of Religion, and a Future State) and conſider whether this Opinion is a ſurer ground of ſatisfaction to him, than the other.</p>
+            <p>And this, indeed, is the moſt uſual Refuge of the wicked. It is more eaſily apprehended, and therefore the more greedily Imbib'd. It is far more eaſie to Carp at the Management of a Queſtion, than to Confute the Principles upon which it is founded. A little Wit, and a great deal of Con<g ref="char:EOLhyphen"/>fidence will ſerve them here, inſtead of that Judg<g ref="char:EOLhyphen"/>ment in Philoſophy, that intire, and perfect Vi<g ref="char:EOLhyphen"/>ctory over our own. Nature, which the other Re<g ref="char:EOLhyphen"/>fuge will require.</p>
+            <p>And therefore to pacifie their Conſciences, and ſuppreſs their Fears of a future Account, they en<g ref="char:EOLhyphen"/>deavour to make themſelves believe, That tho' the Being of God, and the Principles of Religion, may be probable, yet that they are not Infallibly certain, or impoſſible to he falſe: That it cannot
+<pb n="19" facs="tcp:95115:11"/>be proved by <hi>Demonſtration,</hi> that God takes notice of our Actions, and will bring us to Account. And therefore, why, ſay they, ſhould we Reſtrain our Inclinations, or act, upon Principles, that may <hi>poſſibly</hi> deceive us?</p>
+            <p>And thus upon the ſtrength of this little fooliſh Reaſoning, they Encourage themſelves in a Bel<g ref="char:EOLhyphen"/>luine Liberty they have taken, and laugh at the Credulity of all the Religious World.</p>
+            <p>Eſpecially, if they can find an Author of Note, who favours their Opinion, that they may boaſt Authority; or a Book ill writ, on the other ſide, that they may Ridicule it; or an unaccountable Providence, that they may Carp and Object a<g ref="char:EOLhyphen"/>gainſt it: Any difficult Paſſage in Scripture-Hi<g ref="char:EOLhyphen"/>ſtory, or Doctrine, that they may Burleſque it; any. Queſtion of the <hi>Modus</hi> of things Divine, and Myſtical, that is not eaſily ſolv'd, that they may Deride and Inſult it.</p>
+            <p>And thus provided, they hope at once to Cure their Fears, and raiſe a Reputation of Wit and Judgment to themſelves.</p>
+            <p>But let us ſuppoſe it to be true, as it is really falſe, That the Principles of Religion are not <hi>In<g ref="char:EOLhyphen"/>fallibly</hi> certain, (tho' that is a Deceitful Phraſe, ſince any Truth is Infallible as to us, or to the Inclination of our Belief, and Practice, that is as
+<pb n="20" facs="tcp:95115:12"/>Manifeſt as the nature of the thing is capable of being proved, as all the Principles of Religion are. But let us ſuppoſe, however, that they are not ſo Evident as it is <hi>poſſible</hi> for them to be; yet ſince they are not <hi>plainly</hi> falſe, by their own Con<g ref="char:EOLhyphen"/>feſſion, or ſo <hi>Improbable,</hi> that they dare deny them boldly, and reject them <hi>utterly;</hi> they ſhall find no Peace, no ſolid ſatisfaction, in this Hypo<g ref="char:EOLhyphen"/>theſis.</p>
+            <p>For Doubting is Anxious in its Nature, becauſe it is the Leaning of the Judgment to both the ſides of the Propoſition. In a matter of leſs Concern<g ref="char:EOLhyphen"/>ment, it is very troubleſome, the Mind is Diſtra<g ref="char:EOLhyphen"/>cted, and upon the Fret, according to the value of the matter in debate, till it comes to a Reſolu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>But what ſhall we ſay, when the Queſtion is of no leſs Importance, than an Eternal Life, of Happineſs, or Miſery? Nothing leſs than a Se<g ref="char:EOLhyphen"/>curity that cannot <hi>poſſibly</hi> Deceive us, will remove our Fears of ſo great a Danger.</p>
+            <p>In the Belief and Practice of Religion, we ſhould have a Reaſonable Satisfaction, tho' our Principles ſhould be liable to Exception; becauſe we ſuſtain no preſent Damage, nor run any Ha<g ref="char:EOLhyphen"/>zard of future Evil. But thoſe who Deſpiſe, and Oppoſe it, can never be at eaſe, unleſs they pro<g ref="char:EOLhyphen"/>ceed
+<pb n="21" facs="tcp:95115:12"/>upon the ſureſt and moſt certain grounds, be<g ref="char:EOLhyphen"/>cauſe cauſe they are undone for ever, if they ſhall hap<g ref="char:EOLhyphen"/>pen to be miſtaken.</p>
+            <p>And therefore, if there was but ſo much reaſon on the ſide of Religion, as might ſupport a fair Di<g ref="char:EOLhyphen"/>ſpute: yet Wiſdom would adhere to the Affirma<g ref="char:EOLhyphen"/>tive, and Oblige us to Piety and Vertue; ſince no Man can be abſolutely out of Danger any other way.</p>
+            <p>So that unleſs a <hi>Sceptic</hi> can Extinguiſh Humane Nature, and Vanquiſh all his Principles of Com<g ref="char:EOLhyphen"/>mon Senſe, he can never ſupport an Habitual Peace in his Mind upon this Foundation.</p>
+            <p n="3">3. Wherefore Laſtly, We will ſuppoſe a Wicked Man a Chriſtian, and conſider whether he may find any Grounds of Peace, and Com<g ref="char:EOLhyphen"/>fort to himſelf, in that Religion.</p>
+            <p>And in truth, that Deluge of Profaneneſs, which Over-ſpreads the Chriſtian World; that Ambition, Treachery, and Injuſtice; that Vi<g ref="char:EOLhyphen"/>olation of Faith, that Barbarity of Manners, and the Havock that is made of Chriſtian Blood: Thoſe cauſeleſs Schiſms, Hereſies, and Hypo<g ref="char:EOLhyphen"/>criſie, that every where abound, might Incline an Indifferent Man to Believe that Chriſtianity had indeed Releaſed us from all Obligations of Nature, and Revelation.</p>
+            <pb n="22" facs="tcp:95115:13"/>
+            <p>But if we underſtand it, we cannot ſo Mi<g ref="char:EOLhyphen"/>ſtake it; and if we well Conſidered it, we could not Deviate ſo groſly, from the Rules and Pre<g ref="char:EOLhyphen"/>cepts of it.</p>
+            <p>For does it not Oblige us to Univerſal Righte<g ref="char:EOLhyphen"/>ouſneſs without Reſerve? to things that are <hi>Love<g ref="char:EOLhyphen"/>ly and of Good Report</hi> (Phil. 4.8.) as well as to thoſe that are Simply Honeſt? And that not in Action only, but in our Principle: not only that we do our Duty, but that we Love, Pre<g ref="char:EOLhyphen"/>fer, and Chuſe it? And is not all, and every part of this, ſecured, by the moſt Terrible San<g ref="char:EOLhyphen"/>ction of Eternal Death? <hi>Indignation and Wrath, Tribulation and Anguiſh, upon every Soul of Man that does Evil? Theſe ſhall go away into Ever<g ref="char:EOLhyphen"/>laſting Puniſhment?</hi> Without any Condition or <hi>Limitation,</hi> excepting that of Repentance only. (St. <hi>Mat.</hi> 25. ult. <hi>Rom.</hi> 2.9.)</p>
+            <p>And when all this is ſaid, ſhall we pleaſe our ſelves, as the Wicked do, with Vain Opinions, ſuch as theſe:
+<list>
+                  <item>1. That our Religion is rather a Scheme of Divine Philoſophy, than a Rule of Life.</item>
+                  <item>2. That the Goodneſs of God will moderate the ſeverity of his Law.</item>
+                  <item>3. That He, who ſent His Son to ſave us, will never Inflict Eternal Puniſhment upon us.</item>
+                  <pb n="23" facs="tcp:95115:13"/>
+                  <item>4. That all theſe things are threatned <hi>in Terro<g ref="char:EOLhyphen"/>rem,</hi> to maintain a Decorum in the World; but that there is no danger of their Execution.</item>
+               </list>
+            </p>
+            <p>But how can we truſt to ſo weak a Support? to Notions that we frame to our ſelves, without any Colour of Reaſon, or ſo much as a Pretence to Revelation? Is not the Law it ſelf, both <hi>Ho<g ref="char:EOLhyphen"/>ly, Juſt, and Good,</hi> fitted to our Capacities, ſuited to our Intereſts, and framed by the true Diſpoſiti<g ref="char:EOLhyphen"/>ons of our Nature? Is it not written in our very Mind? Is it not nigh unto us, even in us all? Is it not fixed and faſtned upon us, by the inward Conviction of our own Conſciences, by the out<g ref="char:EOLhyphen"/>ward Miniſtration of the Word, and Sacra<g ref="char:EOLhyphen"/>ments, by the Divine Operations of the Holy Spirit?</p>
+            <p>What then is to be ſaid? Why ſhould we hope, againſt all the Reaſons of Government, that not<g ref="char:EOLhyphen"/>withſtanding this, Trangreſſors ſhall Eſcape Un<g ref="char:EOLhyphen"/>puniſhed?</p>
+            <p>Let us not deceive our ſelves with fond, un<g ref="char:EOLhyphen"/>grounded Notions of Infinite Goodneſs. God is Good, 'tis true, but He is alſo Juſt; and every Single Attribute in God, is exerciſed with ſafety to the reſt: His Mercy with ſafety to His Juſtice. And this is that Eternal Rule, which God is pleaſed to govern His Proceedings by. <hi>Shall we
+<pb n="24" facs="tcp:95115:14"/>ſin then,</hi> ſays the Apoſtle, upon the like occaſion, <hi>that Grace may Abound? God forbid!</hi>
+            </p>
+            <p>Thus then it appears, That Chriſtianity affords no Comfort to the Wicked, ſo long as they con<g ref="char:EOLhyphen"/>tinue ſo.</p>
+            <p>It is true, It invites us to Repenrance, upon this very Conſideration, That our Souls ſhall be then <hi>Refreſhed,</hi> (St. <hi>Matt.</hi> 11.) That we ſhall have <hi>peace</hi> of <hi>Conſcience,</hi> and <hi>Joy in the Holy Ghoſt,</hi> (Rom. 4.17.) That we ſhall be <hi>ſetled in a Bleſſed Hope,</hi> (Tit. 2.12.) That <hi>our Joy ſhall be full,</hi> (Joh. 16.24.) and ſuch as <hi>no Man ſhall take from us,</hi> V. 22. But neither Chriſtianity, nor any other Notion of Religion, will give us any Peace, or ſolid Satisfaction, in a State of Wickedneſs.</p>
+            <p>And as there is no Relief to the Wicked, in any Notion of Religion.</p>
+            <p n="2">2. So, in the Second place, there is no Eaſe, no Peace to be found, by them, in any State of Life, in any Condition whatſoever.</p>
+            <p>And, Firſt, not in <hi>Proſperity.</hi>
+            </p>
+            <p>We will ſuppoſe him the darling of Fortune, and undes a free Enjoyment of all that the World beſtows upon its greateſt Favourites. Let him be ſtrong of Body, in the Flower of his Beauty, and the Prime of his Youth; Let his Family be re<g ref="char:EOLhyphen"/>nown'd, his Titles Swelling, and his Eſtate Mag<g ref="char:EOLhyphen"/>nificent;
+<pb n="25" facs="tcp:95115:14"/>Let him lie in his Prince's Boſom, let his Enemies fear him, and his Friends Addreſs, and Court him.</p>
+            <p>Yet, Alas! How little an Advantage is all this to him? It may Enable him to Stifle, to Quiet the Symptoms, for the preſent; but the Diſtem<g ref="char:EOLhyphen"/>per will return upon him with a greater Vio<g ref="char:EOLhyphen"/>lence.</p>
+            <p>The Accidents of Fortune, make no Alterati<g ref="char:EOLhyphen"/>on in his Nature, no difference in the Reaſons of his future Expectation; and therefore they can be no cure of his Diſeaſe.</p>
+            <p>What pleaſure, then, in Attendance, Baths, and Feaſting, when a Man is ill at Eaſe? What Enjoyment of the World, when a Man is Con<g ref="char:EOLhyphen"/>demn'd to Die?
+<q>
+                  <l>Non enim Gazae, neque Conſularis</l>
+                  <l>Summovet lictor Miſeros tumultus</l>
+                  <l>Mentis, <hi>&amp;c.</hi>
+                  </l>
+                  <bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+               </q>
+In ſhort, they may hide him, a little, now and then, but they cannot ſeparate him from <hi>himſelf.</hi>
+            </p>
+            <p n="2">2. And if there is no Peace to the Wicked in Proſperity, much leſs ſhall they find it in Adverſi<g ref="char:EOLhyphen"/>ty: In forſaken Age, in Wretched Poverty, in Painful Sickneſs, in a general Neglect.</p>
+            <pb n="26" facs="tcp:95115:15"/>
+            <p>There is a proper Happineſs, a ſufficient Sup<g ref="char:EOLhyphen"/>port, in every Condition, to Balance all that is wanting, to the Good and Vertuous. For beſides a Chearful Reflection upon themſelves, that they have done, what lay in them, to prevent the Evil that is come upon them: And beſides the Pleaſure they may find, in the Exerciſe of Chriſtian Pati<g ref="char:EOLhyphen"/>ence, in the raiſing of their Spirit above the power of Fortune. Beſides theſe, I ſay, there is an un<g ref="char:EOLhyphen"/>ſpeakable Joy, in their Proſpect of a future Life; a Life that never ſhall decay, a Continued <hi>ſtate</hi> of Happineſs, that ſhall never fail. But the Wicked deprive themſelves of all the <hi>ſupports,</hi> and benefits of Humane Nature. They have a Pain upon them, that nothing can Relieve or Cure. <hi>For the Spirit of a Man may ſuſtain his Infirmities,</hi> (all the Ca<g ref="char:EOLhyphen"/>lamities of this Mortal Life) <hi>but a Wounded Spirit who can bear?</hi> Prov. 18.14.</p>
+            <p n="3">3. There is, then, no Comfort to the Wicked whilſt they live; and therefore they cannot hope for any when they come to Die.</p>
+            <p>Now all the Principles of Anguiſh and Vexati<g ref="char:EOLhyphen"/>on, will act upon them with their <hi>utmoſt force.</hi> No Poynant Pleaſure to deceive them now; no Idle Scoffer to Encourage them; no Flatterer to ſooth them; no Guard to break the Blow. Now then their Hearts Condemn them, their Conſcien<g ref="char:EOLhyphen"/>ces
+<pb n="27" facs="tcp:95115:15"/>accuſe them, their Guilt amazes them, and their own Breaſt is a <hi>Conſuming Fire,</hi> before they fall into the Hands of the <hi>Living God.</hi>
+            </p>
+            <p>And thus it appears, That as there is always Reaſon enough, why a Wicked Man ſhould be uneaſie: ſo the Force, and Effect of thoſe Reaſons upon the Minds of the Wicked, is utterly una<g ref="char:EOLhyphen"/>voidable.</p>
+            <div type="part">
+               <head>
+                  <g ref="char:V">Ʋ</g>SE.</head>
+               <p>It now remains, That we <hi>Conſider this, and ſhew our ſelves Men.</hi> Tranquillity is our Sovereign Good, it is the end of all our Labours, and the Crown of Wiſdom. But <hi>there is no Peace to the Wicked;</hi> it is not to be found in the Paths of Vice.</p>
+               <p>
+                  <hi>Plutarch</hi> upbraids the <hi>Epicureans,</hi> for their nar<g ref="char:EOLhyphen"/>row, baſe Conceptions of Humane Nature, as if our only way to be happy, was <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> wholly to reſolve our ſelves into the Body; to drown the Soul in Senſual Pleaſures.</p>
+               <p>If therefore any of us have been deceived in this particular; If we have wandered out of the way of our Content and Happineſs, let us be perſwa<g ref="char:EOLhyphen"/>ded to return again with all our Might. Let us at laſt Conform our ſelves to the Religion we profeſs:
+<pb n="28" facs="tcp:95115:16"/>Let us endeavour to tranſcribe our Saviour's Copy, that <hi>we may walk, as He alſo walked, and Be, as He was in the World,</hi> 1 Joh. 2.6.</p>
+               <p>So ſhall our Life be happy, and our <hi>Peace ſhall be full.</hi> So ſhall <hi>we know both how to Abound, and how to Want,</hi> and how to be Happy in all Conditions. So ſhall the <hi>God of Peace, come into us, and abide with us for ever,</hi> to clear our Doubts, Encourage our Faith, Aſſure our Hope, Facilitate our Endeavours, and refreſh us with the Irradiations of his Love, till he bring us, at laſt, to a <hi>fulneſs of Joy, to that Eternal Reſt</hi> which He has <hi>provided</hi> for us.</p>
+               <p>
+                  <hi>Of which <g ref="char:V">Ʋ</g>nſpeakable Bliſs, may God, of His In<g ref="char:EOLhyphen"/>finite Mercy, make us all Partakers, through Jeſus Chriſt our Lord, to Whom, with the Father, and the Holy Ghoſt, be all Honour, Praiſe, and Glory, now, and for ever,</hi> Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95115:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
